@@ -148,4 +148,4 @@ This software is for educational and research purposes only. Past performance do
 
 ## Contact
 
-For questions or collaborations, please contact [your-email@domain.com] or open an issue on GitHub.
+For questions or collaborations, please contact mrityunjay2603@gmail.com or open an issue on GitHub.
